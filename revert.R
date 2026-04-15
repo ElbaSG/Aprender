@@ -16,3 +16,4 @@ t.test(peso_despues, peso_antes, paired=TRUE)
 mean(c(1,2,3,4,5,6,7))
 ----
 mean(c(1,2,3,4,89,6,7))
+qt(0.975, 9.8)
