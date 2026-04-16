@@ -19,8 +19,4 @@ mean(c(1,2,3,4,89,6,7))
 qt(0.975, 9.8)
 (33.29)/sqrt(10)
 ---
-(33.29)/sqrt(210)
-
-##variables
-t.test(peso_despues, peso_antes, paired=TRUE)t.test(peso_despues, peso_antes, paired=TRUE)
-
+(33.29)/sqrt(110)
